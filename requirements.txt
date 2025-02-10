@@ -1,0 +1,5 @@
+tenacity
+openai
+json_repair
+datasets
+tiktoken
