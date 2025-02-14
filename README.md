@@ -87,7 +87,7 @@ Synthesized data samples will follow this format:
 
 <span style="font-variant: small-caps;"><strong>RE</strong>ference-Level <strong>F</strong>eedback <strong>E</strong>nhanced <strong>D</strong>ata</span> (<span style="font-variant: small-caps;">REFED</span>) is our dataset synthesized using the reference-level feedback framework. Using gpt-4o-mini as the teacher model and the LIMA training dataset (1K samples) as reference data, we synthesized this dataset for less than $20. The dataset is available at [./data/refed.json](./data/)
 
-
+<strong>Usage and License Notices</strong>: REFED is intended and licensed for research use only. The dataset is CC BY NC 4.0 (allowing only non-commercial use) and models trained using the dataset should not be used outside of research purposes.
 
 ## Citation
 
